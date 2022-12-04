@@ -1,7 +1,7 @@
 <script setup>
 import axios from "axios";
 import { onMounted, reactive } from "vue";
-import favoritesList from "../assets/a.json";
+import favoritesList from "../assets/favoritesList.json";
 
 const api_url = "http://bilitotal.fangyuan99.xyz/api";
 

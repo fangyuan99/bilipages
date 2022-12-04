@@ -1,0 +1,5722 @@
+[{
+    "bvid": "BV147411K7xu",
+    "aid": 91849600,
+    "videos": 241,
+    "tid": 208,
+    "tname": "校园学习",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/423388af6e95e79cc84376d04b8462116fcb0667.jpg",
+    "title": "高中数学基础与解法全集（涵盖所有）|长期更新|从零开始拯救所有学渣！通俗易懂|高联一等奖保送生主讲|数学有救了|干货满满|包含必修一必修二必修三必修四必修五",
+    "pubdate": 1582713644,
+    "ctime": 1582713644,
+    "desc": "恭喜你发现宝藏！还有5个宝藏等你打开！\n@一化儿  学习化学\n@一生儿  学习生物\n@一英儿  学习英语\n@一地er  学习地理\n@一高数  学习高数\n\n欢迎关注微信公众号：一数儿，每周分享免费电子学习资料。\n\n原这份友谊长存！",
+    "desc_v2": [
+      {
+        "raw_text": "恭喜你发现宝藏！还有5个宝藏等你打开！\n@一化儿  学习化学\n@一生儿  学习生物\n@一英儿  学习英语\n@一地er  学习地理\n",
+        "type": 1,
+        "biz_id": 0
+      },
+      {
+        "raw_text": "一高数",
+        "type": 2,
+        "biz_id": 1924125735
+      },
+      {
+        "raw_text": " 学习高数\n\n欢迎关注微信公众号：一数儿，每周分享免费电子学习资料。\n\n原这份友谊长存！",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 279971,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 14229967,
+      "name": "一数",
+      "face": "https://i1.hdslb.com/bfs/face/812281bada7d323c23c6e1e2e92749bd29b7d7c6.jpg"
+    },
+    "stat": {
+      "aid": 91849600,
+      "view": 50600910,
+      "danmaku": 1129134,
+      "reply": 85272,
+      "favorite": 1460969,
+      "coin": 1127001,
+      "share": 500360,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1222484,
+      "dislike": 0,
+      "evaluation": "",
+      "argue_msg": ""
+    },
+    "dynamic": "",
+    "cid": 156803879,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 156803879,
+        "page": 1,
+        "from": "vupload",
+        "part": "一数指南",
+        "duration": 33,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157111373,
+        "page": 2,
+        "from": "vupload",
+        "part": "【初高衔接】1初高中衔接基础（十字相乘法；二次函数、方程、不等式）",
+        "duration": 1019,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 159474891,
+        "page": 3,
+        "from": "vupload",
+        "part": "【初高衔接】2初高中衔接基础（乘法公式)(基础概念中档习题)",
+        "duration": 1407,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 215304239,
+        "page": 4,
+        "from": "vupload",
+        "part": "【初高衔接】3初高中衔接基础(绝对值相关问题)",
+        "duration": 746,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157111510,
+        "page": 5,
+        "from": "vupload",
+        "part": "【初高衔接】4二次函数中的a、b、c",
+        "duration": 1195,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 219535861,
+        "page": 6,
+        "from": "vupload",
+        "part": "【初高衔接】5含参一元二次函数相关问题",
+        "duration": 1632,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157111556,
+        "page": 7,
+        "from": "vupload",
+        "part": "【初高衔接】6韦达定理相关问题",
+        "duration": 1537,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157530970,
+        "page": 8,
+        "from": "vupload",
+        "part": "【集合】【一数辞典】1集合的基本定义与表示方法",
+        "duration": 1090,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157531060,
+        "page": 9,
+        "from": "vupload",
+        "part": "【集合】【一数辞典】2集合之间关系",
+        "duration": 1175,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157531122,
+        "page": 10,
+        "from": "vupload",
+        "part": "【集合】【一数辞典】3集合习题(从一到无穷大系列）",
+        "duration": 659,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 219266099,
+        "page": 11,
+        "from": "vupload",
+        "part": "【集合】【考点精华】4集合的互异性相关问题（基础）",
+        "duration": 918,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 216008430,
+        "page": 12,
+        "from": "vupload",
+        "part": "【集合】【考点精华】5集合相等的证明办法（中档）",
+        "duration": 1188,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 219942757,
+        "page": 13,
+        "from": "vupload",
+        "part": "【集合】【考点精华】6子集相关问题 （基础）",
+        "duration": 1136,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 215603377,
+        "page": 14,
+        "from": "vupload",
+        "part": "【集合】【考点精华】7集合的交并补混合运算（基础）（重要）",
+        "duration": 1210,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 375668242,
+        "page": 15,
+        "from": "vupload",
+        "part": "【集合】【补充】集合易错点总结（中档）",
+        "duration": 961,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n210724143veohzbdqs2dv3eogfzhn3e_firsti.jpg"
+      },
+      {
+        "cid": 156807239,
+        "page": 16,
+        "from": "vupload",
+        "part": "【集合】【考点精华】8集合的新定义问题考点解析 (拔高）",
+        "duration": 1358,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 215613188,
+        "page": 17,
+        "from": "vupload",
+        "part": "【集合】【考点精华】9集合拓展训练（拔高）",
+        "duration": 1717,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 233462219,
+        "page": 18,
+        "from": "vupload",
+        "part": "【集合】【挑战150】全面提升（拔高）",
+        "duration": 2270,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156832086,
+        "page": 19,
+        "from": "vupload",
+        "part": "【新教材提前内容】1充分条件与必要条件",
+        "duration": 1073,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156832028,
+        "page": 20,
+        "from": "vupload",
+        "part": "【新教材提前内容】2全称量词和存在量词",
+        "duration": 732,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156832181,
+        "page": 21,
+        "from": "vupload",
+        "part": "【新教材提前内容】3命题的否定",
+        "duration": 571,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 235727138,
+        "page": 22,
+        "from": "vupload",
+        "part": "【新教材提前内容】4逻辑用语习题课",
+        "duration": 694,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156807711,
+        "page": 23,
+        "from": "vupload",
+        "part": "【函数】【一数辞典】1函数的基本概念",
+        "duration": 690,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 319083128,
+        "page": 24,
+        "from": "vupload",
+        "part": "【函数】【一数辞典】2函数的三大要素（定义域、解析式）（从一到无穷大系列）",
+        "duration": 1084,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156807857,
+        "page": 25,
+        "from": "vupload",
+        "part": "【函数】【一数辞典】3 值域上",
+        "duration": 841,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156807894,
+        "page": 26,
+        "from": "vupload",
+        "part": "【函数】【一数辞典】4值域下（只适合高二高三）   （中档）",
+        "duration": 1115,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156808070,
+        "page": 27,
+        "from": "vupload",
+        "part": "【函数】【一数辞典】5单调性与最值基本概念",
+        "duration": 908,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156808136,
+        "page": 28,
+        "from": "vupload",
+        "part": "【函数】【一数辞典】6函数的奇偶性",
+        "duration": 864,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 220122234,
+        "page": 29,
+        "from": "vupload",
+        "part": "【函数】【补充视频】7对勾函数的性质",
+        "duration": 925,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 222877760,
+        "page": 30,
+        "from": "vupload",
+        "part": "【函数】【补充视频】8函数对称性与周期性条件翻译",
+        "duration": 1488,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156810394,
+        "page": 31,
+        "from": "vupload",
+        "part": "【函数】【考点精华】9函数解析式解法大全（中档）",
+        "duration": 1159,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156810497,
+        "page": 32,
+        "from": "vupload",
+        "part": "【函数】【考点精华】10函数值域的999种求法（拔高）",
+        "duration": 1925,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 178130850,
+        "page": 33,
+        "from": "vupload",
+        "part": "【函数】【考点精华】11函数单调性解法大全（中档)",
+        "duration": 1658,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156810757,
+        "page": 34,
+        "from": "vupload",
+        "part": "【函数】【考点精华】12函数奇偶性完全突破（中档）",
+        "duration": 1170,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156811187,
+        "page": 35,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】1指数与指数幂的运算法则",
+        "duration": 953,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156811261,
+        "page": 36,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】2分数指数幂习题",
+        "duration": 549,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 159547126,
+        "page": 37,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】3幂函数的基本概念",
+        "duration": 1052,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156811497,
+        "page": 38,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】4指数函数的基本概念",
+        "duration": 1160,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 770234954,
+        "page": 39,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】5对数的定义",
+        "duration": 962,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n22071107bdu8aobkphvs3kix3mr6um5_firsti.jpg"
+      },
+      {
+        "cid": 156811638,
+        "page": 40,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】6对数的运算法则（重要）",
+        "duration": 1136,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156811733,
+        "page": 41,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】7对数函数的图像与性质",
+        "duration": 1060,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156811880,
+        "page": 42,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】8初等函数（从一到无穷大系列）",
+        "duration": 1333,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 220123700,
+        "page": 43,
+        "from": "vupload",
+        "part": "【初等函数】【一数辞典】9复合函数解析式与单调性（中档）（重要）",
+        "duration": 1024,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156812827,
+        "page": 44,
+        "from": "vupload",
+        "part": "【初等函数】【考点精华】10指数与对数的运算解析（中档）",
+        "duration": 1414,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157111974,
+        "page": 45,
+        "from": "vupload",
+        "part": "【初等函数】【考点精华】11指数、对数大小比较考点解析(中档)",
+        "duration": 1485,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157112015,
+        "page": 46,
+        "from": "vupload",
+        "part": "【初等函数】【考点精华】12初等函数图像与性质考点解析（中档）",
+        "duration": 2051,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157112037,
+        "page": 47,
+        "from": "vupload",
+        "part": "【函数综合】【考点精华】1零点存在性定理的运用（基础）",
+        "duration": 1253,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156818342,
+        "page": 48,
+        "from": "vupload",
+        "part": "【函数综合】【考点精华】2复合函数考点解析（基础）",
+        "duration": 830,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156818414,
+        "page": 49,
+        "from": "vupload",
+        "part": "【函数综合】【考点精华】3分段函数解题思路（中档）",
+        "duration": 1322,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156818527,
+        "page": 50,
+        "from": "vupload",
+        "part": "【函数综合】【考点精华】4分段函数中的零点问题（拔高）",
+        "duration": 2048,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156818698,
+        "page": 51,
+        "from": "vupload",
+        "part": "【函数综合】【考点精华】5抽象函数考点解析上（基础）",
+        "duration": 1085,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156818815,
+        "page": 52,
+        "from": "vupload",
+        "part": "【函数综合】【考点精华】6抽象函数难点突破（拔高）",
+        "duration": 1789,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 207539432,
+        "page": 53,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】1任意角的度数",
+        "duration": 927,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156819136,
+        "page": 54,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】2弧度制与扇形面积公式",
+        "duration": 1162,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156819300,
+        "page": 55,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】3任意角的三角函数",
+        "duration": 1244,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156819422,
+        "page": 56,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】4同角三角函数的基本关系",
+        "duration": 1294,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156820934,
+        "page": 57,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】5三角函数的诱导公式",
+        "duration": 1219,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 797713757,
+        "page": 58,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】6诱导公式习题课",
+        "duration": 1288,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220808062q4uk38vus3vw2fzpyb7uho_firsti.jpg"
+      },
+      {
+        "cid": 156819636,
+        "page": 59,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】7三角函数的图像与性质",
+        "duration": 1204,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 173831124,
+        "page": 60,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】8三角函数的一般形式与性质",
+        "duration": 1399,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 207532869,
+        "page": 61,
+        "from": "vupload",
+        "part": "【三角函数】【一数辞典】9三角函数的一般形式（习题课）(中档)",
+        "duration": 1382,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156824855,
+        "page": 62,
+        "from": "vupload",
+        "part": "【三角函数】【考点精华】10同名三角函数化简求值（基础）",
+        "duration": 1330,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156825799,
+        "page": 63,
+        "from": "vupload",
+        "part": "【三角函数】【考点精华】11图像解决三角函数不等式问题(基础）",
+        "duration": 1180,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156825910,
+        "page": 64,
+        "from": "vupload",
+        "part": "【三角函数】【考点精华】12五点法作图考点解析（基础）",
+        "duration": 998,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156826088,
+        "page": 65,
+        "from": "vupload",
+        "part": "【三角函数】【考点精华】13三角函数图像平移与伸缩变换（重要）(中档）",
+        "duration": 1484,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156826185,
+        "page": 66,
+        "from": "vupload",
+        "part": "【三角函数】【考点精华】14三角函数对称性（重要）（中档）",
+        "duration": 2048,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156826368,
+        "page": 67,
+        "from": "vupload",
+        "part": "【三角函数】【考点精华】15三角函数的单调性（重要）（中档）",
+        "duration": 1451,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156826483,
+        "page": 68,
+        "from": "vupload",
+        "part": "【三角函数】【考点精华】16三角函数难题克星——整体换元法（拔高）",
+        "duration": 1782,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156820134,
+        "page": 69,
+        "from": "vupload",
+        "part": "【三角恒等变换】【一数辞典】1三角函数角的和与差公式",
+        "duration": 1708,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156820383,
+        "page": 70,
+        "from": "vupload",
+        "part": "【三角恒等变换】【一数辞典】2辅助角公式",
+        "duration": 941,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156820479,
+        "page": 71,
+        "from": "vupload",
+        "part": "【三角恒等变换】【一数辞典】3二倍角公式",
+        "duration": 1204,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156820716,
+        "page": 72,
+        "from": "vupload",
+        "part": "【三角恒等变换】【一数辞典】4三角恒等变换上（基础）（从一到无穷大系列）",
+        "duration": 1031,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 732450820,
+        "page": 73,
+        "from": "vupload",
+        "part": "【三角恒等变换】【一数辞典】5三角恒等变换下（中档）（从一到无穷大系列）",
+        "duration": 1361,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220529082ao1t1d8touqy3v64kf7jh0_firsti.jpg"
+      },
+      {
+        "cid": 156826841,
+        "page": 74,
+        "from": "vupload",
+        "part": "【三角恒等变换】【考点精华】1具体角度的求值（中档）",
+        "duration": 1289,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156826924,
+        "page": 75,
+        "from": "vupload",
+        "part": "【三角恒等变换】【考点精华】2三角恒等变换稳定得分策略（重要）（基础）",
+        "duration": 1034,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156827659,
+        "page": 76,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】1平面向量的基本概念",
+        "duration": 1513,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156827776,
+        "page": 77,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】2向量的加减法运算法则",
+        "duration": 1445,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156827899,
+        "page": 78,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】3向量的数乘运算",
+        "duration": 1201,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156828009,
+        "page": 79,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】4平面向量基本定理",
+        "duration": 1057,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156828098,
+        "page": 80,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】5平面向量基本定理习题课",
+        "duration": 1275,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156828204,
+        "page": 81,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】6平面向量的正交分解与坐标表示",
+        "duration": 1442,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156828300,
+        "page": 82,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】7向量的坐标表示习题课",
+        "duration": 1770,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 512102642,
+        "page": 83,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】8向量的数量积与投影",
+        "duration": 2284,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220219142zpgwn5msrhe41lk6yl1ftl_firsti.jpg"
+      },
+      {
+        "cid": 156828727,
+        "page": 84,
+        "from": "vupload",
+        "part": "【平面向量】【一数辞典】9平面向量知识梳理（从一到无穷大系列）（基础）",
+        "duration": 1265,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156828813,
+        "page": 85,
+        "from": "vupload",
+        "part": "【平面向量】【考点精华】10向量加减运算、共线、模（基础）",
+        "duration": 953,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156828925,
+        "page": 86,
+        "from": "vupload",
+        "part": "【平面向量】【考点精华】11平面向量基本定理综合演练（重要）（中档）",
+        "duration": 1563,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156829038,
+        "page": 87,
+        "from": "vupload",
+        "part": "【平面向量】【考点精华】12向量数量积问题处理思路（中档）",
+        "duration": 1153,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156829213,
+        "page": 88,
+        "from": "vupload",
+        "part": "【平面向量】【考点精华】13向量数量积与几何（拔高）",
+        "duration": 1259,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 158961339,
+        "page": 89,
+        "from": "vupload",
+        "part": "【平面向量】【考点精华】14向量坐标的运算方法（基础）",
+        "duration": 1268,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156829459,
+        "page": 90,
+        "from": "vupload",
+        "part": "【平面向量】【考点精华】15解析法秒杀高考向量问题(必看）（中档）",
+        "duration": 1231,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156829555,
+        "page": 91,
+        "from": "vupload",
+        "part": "【平面向量】【考点精华】16两向量和与差的模（必看）（中档）",
+        "duration": 1452,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156829670,
+        "page": 92,
+        "from": "vupload",
+        "part": "【解三角形】【一数辞典】1正弦定理",
+        "duration": 885,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 309926989,
+        "page": 93,
+        "from": "vupload",
+        "part": "【解三角形】【一数辞典】2余弦定理",
+        "duration": 834,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156829774,
+        "page": 94,
+        "from": "vupload",
+        "part": "【解三角形】【考点精华】3正余弦定理使用策略（中档）",
+        "duration": 1484,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 310617011,
+        "page": 95,
+        "from": "vupload",
+        "part": "【解三角形】【考点精华】4三角变换法（中档）",
+        "duration": 1046,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156829927,
+        "page": 96,
+        "from": "vupload",
+        "part": "【解三角形】【考点精华】5三角形中的取值范围问题（中档）",
+        "duration": 911,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 322732383,
+        "page": 97,
+        "from": "vupload",
+        "part": "【解三角形】【总结】第一问思路整理（基础）",
+        "duration": 1003,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 322735154,
+        "page": 98,
+        "from": "vupload",
+        "part": "【解三角形】【总结】第二问思路整理（中档）",
+        "duration": 1772,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156833359,
+        "page": 99,
+        "from": "vupload",
+        "part": "【数列】【一数辞典】1数列的概念与表示方法",
+        "duration": 1500,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156833483,
+        "page": 100,
+        "from": "vupload",
+        "part": "【数列】【一数辞典】2等差数列的概念",
+        "duration": 1095,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156833559,
+        "page": 101,
+        "from": "vupload",
+        "part": "【数列】【一数辞典】3等差数列的前n项和",
+        "duration": 1596,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156833687,
+        "page": 102,
+        "from": "vupload",
+        "part": "【数列】【一数辞典】4等差数列习题课",
+        "duration": 1527,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156833808,
+        "page": 103,
+        "from": "vupload",
+        "part": "【数列】【一数辞典】5等比数列的概念",
+        "duration": 796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156833860,
+        "page": 104,
+        "from": "vupload",
+        "part": "【数列】【一数辞典】6等比数列的前n项和",
+        "duration": 779,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156833997,
+        "page": 105,
+        "from": "vupload",
+        "part": "【数列】【考点精华】7累加法题型一网打尽（中档）",
+        "duration": 1191,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156834118,
+        "page": 106,
+        "from": "vupload",
+        "part": "【数列】【考点精华】8累乘法题型一网打尽（中档）",
+        "duration": 993,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 156834264,
+        "page": 107,
+        "from": "vupload",
+        "part": "【数列】【考点精华】9待定系数与换元法求解通项公式（重要）（中档）",
+        "duration": 1272,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 172674249,
+        "page": 108,
+        "from": "vupload",
+        "part": "【数列】【考点精华】10等差等比数列的和与通项公式的特殊关系 （中档）",
+        "duration": 1150,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157112710,
+        "page": 109,
+        "from": "vupload",
+        "part": "【数列】【考点精华】11An、Sn混搭型数列求解思路（中档）",
+        "duration": 1010,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 157447721,
+        "page": 110,
+        "from": "vupload",
+        "part": "【数列】【考点精华】12错位相减法求数列的和（必看）（中档）",
+        "duration": 1077,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 158111803,
+        "page": 111,
+        "from": "vupload",
+        "part": "【数列】【考点精华】13裂项相消法求数列的和（必看）（中档）",
+        "duration": 1325,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 158404272,
+        "page": 112,
+        "from": "vupload",
+        "part": "【数列】【考点精华】14倒序相加与分组求和法（基础）",
+        "duration": 838,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 238055058,
+        "page": 113,
+        "from": "vupload",
+        "part": "【二次函数、不等式】【一数辞典】1一元二次函数基础知识回顾（函数、方程、不等式）",
+        "duration": 941,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 238059901,
+        "page": 114,
+        "from": "vupload",
+        "part": "【不等式】【一数辞典】1等式与不等式的性质（初中知识回顾）",
+        "duration": 854,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 392057079,
+        "page": 115,
+        "from": "vupload",
+        "part": "【不等式】【一数辞典】2基本不等式",
+        "duration": 581,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n21081913ltpm5fmi07kw8yqyewjh1ci_firsti.jpg"
+      },
+      {
+        "cid": 162670909,
+        "page": 116,
+        "from": "vupload",
+        "part": "【不等式】【考点精华】3“1”的代换（中档）",
+        "duration": 700,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 163144518,
+        "page": 117,
+        "from": "vupload",
+        "part": "【不等式】【考点精华】4基本不等式中的“凑形”(中档）",
+        "duration": 809,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 311298803,
+        "page": 118,
+        "from": "vupload",
+        "part": "【不等式】【考点精华】5基本不等式（从一到无穷大系列）",
+        "duration": 1044,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 166814046,
+        "page": 119,
+        "from": "vupload",
+        "part": "【不等式】【一数辞典】6二元一次不等式（组）与线性规划",
+        "duration": 709,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 239978127,
+        "page": 120,
+        "from": "vupload",
+        "part": "【不等式】【考点精华】7不等式的性质（基础）",
+        "duration": 810,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 170068340,
+        "page": 121,
+        "from": "vupload",
+        "part": "【不等式】【考点精华】8线性规划高频考点（基础）",
+        "duration": 1286,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 171614762,
+        "page": 122,
+        "from": "vupload",
+        "part": "【不等式】【考点精华】9数列不等式常用放缩技巧（拔高）",
+        "duration": 1121,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 177586164,
+        "page": 123,
+        "from": "vupload",
+        "part": "【复数】【一数辞典】1复数的概念",
+        "duration": 1034,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 174467211,
+        "page": 124,
+        "from": "vupload",
+        "part": "【复数】【一数辞典】2复数的四则运算",
+        "duration": 962,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 215086576,
+        "page": 125,
+        "from": "vupload",
+        "part": "【复数】【一数辞典】3复数的三角形式（选学）",
+        "duration": 937,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 176906817,
+        "page": 126,
+        "from": "vupload",
+        "part": "【复数】【考点精华】3复数例题综合演练（基础）",
+        "duration": 1073,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 178186905,
+        "page": 127,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】1基本立体图形",
+        "duration": 1963,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 178918528,
+        "page": 128,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】2立体图形的三视图",
+        "duration": 1616,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 180430320,
+        "page": 129,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】3立体图形的直观图",
+        "duration": 1357,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 207526029,
+        "page": 130,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】4简单几何体的表面积与体积",
+        "duration": 1418,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 299897314,
+        "page": 131,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】14几何体的结构问题（基础）",
+        "duration": 781,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 301691657,
+        "page": 132,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】15几何体的展开问题（中档）",
+        "duration": 824,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 308242066,
+        "page": 133,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】16动态图形探究（中档）",
+        "duration": 1225,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 184066508,
+        "page": 134,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】5平面的定义与公理",
+        "duration": 892,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 186165961,
+        "page": 135,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】6空间中直线与直线的位置关系",
+        "duration": 1012,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 191052603,
+        "page": 136,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】7与平面相关的位置关系",
+        "duration": 775,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 187774400,
+        "page": 137,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】8空间中的夹角与习题课",
+        "duration": 1475,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 309936144,
+        "page": 138,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】9线面平行的判定与性质",
+        "duration": 901,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 190212562,
+        "page": 139,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】10面面平行的判定与性质",
+        "duration": 833,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 190621014,
+        "page": 140,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】11线面垂直的判定与性质",
+        "duration": 1066,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 319095296,
+        "page": 141,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】12二面角与面面垂直",
+        "duration": 1352,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 192551683,
+        "page": 142,
+        "from": "vupload",
+        "part": "【立体几何】【一数辞典】13判定与性质定理习题课",
+        "duration": 1482,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 311284755,
+        "page": 143,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】17外接球之墙角模型（基础）",
+        "duration": 663,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 314664332,
+        "page": 144,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】18外接球之外心法（中档）",
+        "duration": 998,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 317874474,
+        "page": 145,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】19特殊外接球求法（拔高）",
+        "duration": 1577,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 326799754,
+        "page": 146,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】20球内的计算策略（拔高）",
+        "duration": 1240,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 320340808,
+        "page": 147,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】21长方体中的动点问题（中档到拔高）",
+        "duration": 1604,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 327009670,
+        "page": 148,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】22特殊图形的动点问题（中档）",
+        "duration": 1268,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 342360945,
+        "page": 149,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】23三点确定截面精确位置（基础）",
+        "duration": 843,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 330107112,
+        "page": 150,
+        "from": "vupload",
+        "part": "【立体几何】【考点精华】24棱柱中的截面画法（中档）",
+        "duration": 1070,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 194403927,
+        "page": 151,
+        "from": "vupload",
+        "part": "【立体几何】【云刷题】1立体几何小题部分（偏难）",
+        "duration": 2993,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 197063172,
+        "page": 152,
+        "from": "vupload",
+        "part": "【立体几何】【云刷题】2大题部分（偏难）",
+        "duration": 2613,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 310607636,
+        "page": 153,
+        "from": "vupload",
+        "part": "【直线与圆】【一数辞典】1直线的斜率与倾斜角",
+        "duration": 972,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 193134049,
+        "page": 154,
+        "from": "vupload",
+        "part": "【直线与圆】【一数辞典】2直线方程的四种表示",
+        "duration": 838,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 193628291,
+        "page": 155,
+        "from": "vupload",
+        "part": "【直线与圆】【一数辞典】3点、直线距离公式",
+        "duration": 1051,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 329525712,
+        "page": 156,
+        "from": "vupload",
+        "part": "【直线与圆】【一数辞典】4圆的两种方程表示",
+        "duration": 1327,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 247463239,
+        "page": 157,
+        "from": "vupload",
+        "part": "【直线与圆】【一数辞典】5直线、圆的位置关系",
+        "duration": 912,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 196125351,
+        "page": 158,
+        "from": "vupload",
+        "part": "【直线与圆】【一数辞典】6直线与圆习题课（中档）",
+        "duration": 1241,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 378985522,
+        "page": 159,
+        "from": "vupload",
+        "part": "【直线与圆】【考点精华】7直线倾斜角的理解（基础）",
+        "duration": 893,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n210729152vtyrqct2jf9630fht30j7m_firsti.jpg"
+      },
+      {
+        "cid": 382602536,
+        "page": 160,
+        "from": "vupload",
+        "part": "【直线与圆】【考点精华】8特殊直线性质:过定点，对称性(基础)",
+        "duration": 1135,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n210804142dsbw6kx2gj253afx4u3o9b_firsti.jpg"
+      },
+      {
+        "cid": 217731303,
+        "page": 161,
+        "from": "vupload",
+        "part": "【统计】【一数辞典】1随机抽样",
+        "duration": 1206,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 197670673,
+        "page": 162,
+        "from": "vupload",
+        "part": "【统计】【一数辞典】2频率的表示方法",
+        "duration": 1517,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 197872605,
+        "page": 163,
+        "from": "vupload",
+        "part": "【统计】【一数辞典】3样本的数字特征",
+        "duration": 1349,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 198699096,
+        "page": 164,
+        "from": "vupload",
+        "part": "【统计】【一数辞典】4百分位数（新教材内容）",
+        "duration": 1505,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 200088954,
+        "page": 165,
+        "from": "vupload",
+        "part": "【统计】【一数辞典】5方差知识补充（中档）（新教材内容）",
+        "duration": 1315,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 200422717,
+        "page": 166,
+        "from": "vupload",
+        "part": "【概率】【一数辞典】1样本空间与随机事件",
+        "duration": 1289,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 200647553,
+        "page": 167,
+        "from": "vupload",
+        "part": "【概率】【一数辞典】2事件的关系与运算",
+        "duration": 1133,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 201042277,
+        "page": 168,
+        "from": "vupload",
+        "part": "【概率】【一数辞典】3古典概型",
+        "duration": 1391,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 247465145,
+        "page": 169,
+        "from": "vupload",
+        "part": "【概率】【一数辞典】4概率的基本（运算）性质",
+        "duration": 1591,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 202426536,
+        "page": 170,
+        "from": "vupload",
+        "part": "【概率】【一数辞典】5事件的相互独立",
+        "duration": 1797,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 202778417,
+        "page": 171,
+        "from": "vupload",
+        "part": "【概率】【一数辞典】6频率与概率",
+        "duration": 875,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 206205757,
+        "page": 172,
+        "from": "vupload",
+        "part": "【圆锥曲线】【一数辞典】1椭圆的定义",
+        "duration": 1554,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 204744421,
+        "page": 173,
+        "from": "vupload",
+        "part": "【圆锥曲线】【一数辞典】2椭圆的习题课（基础）",
+        "duration": 1184,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 210004538,
+        "page": 174,
+        "from": "vupload",
+        "part": "【圆锥曲线】【一数辞典】3双曲线的定义",
+        "duration": 638,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 206202184,
+        "page": 175,
+        "from": "vupload",
+        "part": "【圆锥曲线】【一数辞典】4双曲线习题课",
+        "duration": 1058,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 208537699,
+        "page": 176,
+        "from": "vupload",
+        "part": "【圆锥曲线】【一数辞典】5抛物线的定义",
+        "duration": 921,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 207214846,
+        "page": 177,
+        "from": "vupload",
+        "part": "【圆锥曲线】【一数辞典】6抛物线习题课（基础）",
+        "duration": 1048,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 244007091,
+        "page": 178,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】7椭圆的第一定义与方程（基础）",
+        "duration": 902,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 247457806,
+        "page": 179,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】8椭圆中的焦点三角形问题（中档）",
+        "duration": 1139,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 248485849,
+        "page": 180,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】9点差法（中点弦问题）（中档）",
+        "duration": 1003,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 249815037,
+        "page": 181,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】10椭圆小题进阶（拔高）",
+        "duration": 1625,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 250152523,
+        "page": 182,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】11双曲线方程求法（基础）",
+        "duration": 622,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 254906826,
+        "page": 183,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】12双曲线与几何小题（中档）",
+        "duration": 1180,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 346434645,
+        "page": 184,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】13抛物线的几何性质（中档）",
+        "duration": 772,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 255719217,
+        "page": 185,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】14大题中的弦长公式（中档）",
+        "duration": 1557,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 257277470,
+        "page": 186,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】15大题中的垂直翻译（基础）",
+        "duration": 912,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 259069742,
+        "page": 187,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】16大题中的对称条件（基础）",
+        "duration": 1130,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 259416028,
+        "page": 188,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】17大题中的定点问题（中档）",
+        "duration": 1447,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 264041294,
+        "page": 189,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】18大题中的角相等问题（基础）",
+        "duration": 803,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 264801049,
+        "page": 190,
+        "from": "vupload",
+        "part": "【圆锥曲线】【考点精华】19大题中的轨迹问题（中档）",
+        "duration": 1181,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 214354929,
+        "page": 191,
+        "from": "vupload",
+        "part": "【空间向量】【一数辞典】1空间向量与坐标运算",
+        "duration": 998,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 214752941,
+        "page": 192,
+        "from": "vupload",
+        "part": "【空间向量】【一数辞典】2空间向量法（重要）",
+        "duration": 1638,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 371538885,
+        "page": 193,
+        "from": "vupload",
+        "part": "【空间向量】【考点精华】3法向量求法稳固（基础）",
+        "duration": 909,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n210717152i8m1grvc0dxk2iiyltf9jv_firsti.jpg"
+      },
+      {
+        "cid": 371543427,
+        "page": 194,
+        "from": "vupload",
+        "part": "【空间向量】【考点精华】4建系实战指南（中档）",
+        "duration": 1385,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n210717153u7w6e46s8qjawxxnndo45q_firsti.jpg"
+      },
+      {
+        "cid": 371553067,
+        "page": 195,
+        "from": "vupload",
+        "part": "【空间向量】【考点精华】5方法总结与复杂建系策略（拔高）",
+        "duration": 2971,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n21071715vm7nd0heyqxvwwa0vtimvah_firsti.jpg"
+      },
+      {
+        "cid": 209637408,
+        "page": 196,
+        "from": "vupload",
+        "part": "【导数】【一数辞典】1导数的概念与意义",
+        "duration": 964,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 210687563,
+        "page": 197,
+        "from": "vupload",
+        "part": "【导数】【一数辞典】2常见函数的导数",
+        "duration": 885,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 211779218,
+        "page": 198,
+        "from": "vupload",
+        "part": "【导数】【一数辞典】3导数的运算法则（略难）",
+        "duration": 994,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 212494328,
+        "page": 199,
+        "from": "vupload",
+        "part": "【导数】【一数辞典】4导数的运算法则习题课（中档）",
+        "duration": 735,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 213237588,
+        "page": 200,
+        "from": "vupload",
+        "part": "【导数】【一数辞典】5函数单调性与导数（重要）",
+        "duration": 682,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 213849636,
+        "page": 201,
+        "from": "vupload",
+        "part": "【导数】【一数辞典】6极值与最值",
+        "duration": 734,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 267141254,
+        "page": 202,
+        "from": "vupload",
+        "part": "【导数】【考点精华】7导数与几何意义考点解析（基础）",
+        "duration": 511,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 269744160,
+        "page": 203,
+        "from": "vupload",
+        "part": "【导数】【考点精华】8构造函数值比较大小（中档）",
+        "duration": 688,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 269747079,
+        "page": 204,
+        "from": "vupload",
+        "part": "【导数】【考点精华】9构造函数之导数式（拔高）",
+        "duration": 1130,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 317436630,
+        "page": 205,
+        "from": "vupload",
+        "part": "【导数】【考点精华】10复合函数的求导问题（基础）",
+        "duration": 695,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 274089781,
+        "page": 206,
+        "from": "vupload",
+        "part": "【导数】【压轴】1恒成立之参数分离（拔高）",
+        "duration": 1352,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 274076036,
+        "page": 207,
+        "from": "vupload",
+        "part": "【导数】【压轴】2恒成立之直接讨论（拔高）",
+        "duration": 1416,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 295054042,
+        "page": 208,
+        "from": "vupload",
+        "part": "【导数】【压轴】3未知极值点的处理（中档）",
+        "duration": 502,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 277529801,
+        "page": 209,
+        "from": "vupload",
+        "part": "【导数】【压轴】4未知极值点的进阶处理（拔高）",
+        "duration": 604,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 277140776,
+        "page": 210,
+        "from": "vupload",
+        "part": "【导数】【压轴】5极值点偏移（拔高）",
+        "duration": 1387,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 281283014,
+        "page": 211,
+        "from": "vupload",
+        "part": "【导数】【压轴】6常见三连放缩（中档）",
+        "duration": 1077,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 282108326,
+        "page": 212,
+        "from": "vupload",
+        "part": "【导数】【压轴】7三角放缩举例（拔高）",
+        "duration": 679,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 311290412,
+        "page": 213,
+        "from": "vupload",
+        "part": "【导数】【压轴】8涉及数列求和放缩（拔高）",
+        "duration": 819,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 288115886,
+        "page": 214,
+        "from": "vupload",
+        "part": "【导数】【压轴】9进阶放缩技巧（拔高）",
+        "duration": 793,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 289049472,
+        "page": 215,
+        "from": "vupload",
+        "part": "【导数】【压轴】10极值点“0”的运用（拔高）",
+        "duration": 1388,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 217151823,
+        "page": 216,
+        "from": "vupload",
+        "part": "【计数原理】【一数辞典】1加法与乘法原理",
+        "duration": 593,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 217343165,
+        "page": 217,
+        "from": "vupload",
+        "part": "【计数原理】【一数辞典】2排列",
+        "duration": 1283,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 317457592,
+        "page": 218,
+        "from": "vupload",
+        "part": "【计数原理】【一数辞典】3组合",
+        "duration": 1121,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 221484094,
+        "page": 219,
+        "from": "vupload",
+        "part": "【计数原理】【补充】什么时候用排列，什么时候用组合",
+        "duration": 849,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 220487458,
+        "page": 220,
+        "from": "vupload",
+        "part": "【计数原理】【一数辞典】4排列与组合的运用（习题课）",
+        "duration": 1104,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 220719306,
+        "page": 221,
+        "from": "vupload",
+        "part": "【计数原理】【一数辞典】5二项式定理与通项",
+        "duration": 886,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 221329993,
+        "page": 222,
+        "from": "vupload",
+        "part": "【计数原理】【一数辞典】6二项式的性质",
+        "duration": 1069,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 300807669,
+        "page": 223,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】7初识计数题型（基础）",
+        "duration": 714,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 302347497,
+        "page": 224,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】8捆绑法与插空法（基础）",
+        "duration": 890,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 305274580,
+        "page": 225,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】9隔板法（中档）",
+        "duration": 938,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 308517049,
+        "page": 226,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】10分组分配问题（中档）",
+        "duration": 780,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 314663300,
+        "page": 227,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】11染色问题（中档到拔高）",
+        "duration": 1112,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 317860818,
+        "page": 228,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】12组合计数之间接法（中档）",
+        "duration": 853,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 321205847,
+        "page": 229,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】13一道好题学会排列组合问题核心策略（中档）",
+        "duration": 704,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 327604999,
+        "page": 230,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】14创新性排列组合问题如何思考？（中档）",
+        "duration": 1271,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 330184874,
+        "page": 231,
+        "from": "vupload",
+        "part": "【计数原理】【考点精华】15常规二项式问题（基础）",
+        "duration": 589,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 224440097,
+        "page": 232,
+        "from": "vupload",
+        "part": "【随机变量】【一数辞典】1条件概率与独立事件",
+        "duration": 1304,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 225988881,
+        "page": 233,
+        "from": "vupload",
+        "part": "【随机变量】【一数辞典】2离散型随机变量及其分布列",
+        "duration": 1203,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 226872567,
+        "page": 234,
+        "from": "vupload",
+        "part": "【随机变量】【一数辞典】3离散型随机变量的均值与方差",
+        "duration": 1557,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 229209006,
+        "page": 235,
+        "from": "vupload",
+        "part": "【随机变量】【一数辞典】4独立重复试验",
+        "duration": 1348,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 229212948,
+        "page": 236,
+        "from": "vupload",
+        "part": "【随机变量】【一数辞典】5随机变量习题课（基础）",
+        "duration": 1095,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 231063949,
+        "page": 237,
+        "from": "vupload",
+        "part": "【随机变量】【一数辞典】6正态分布",
+        "duration": 1214,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 231624540,
+        "page": 238,
+        "from": "vupload",
+        "part": "【随机变量】【一数辞典】7正态分布习题课",
+        "duration": 852,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 317017972,
+        "page": 239,
+        "from": "vupload",
+        "part": "【成对数据统计】【一数辞典】1线性回归方程",
+        "duration": 1198,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 233459626,
+        "page": 240,
+        "from": "vupload",
+        "part": "【成对数据统计】【一数辞典】2线性回归习题课",
+        "duration": 722,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 233996640,
+        "page": 241,
+        "from": "vupload",
+        "part": "【成对数据统计】【一数辞典】3独立性检验",
+        "duration": 1242,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": ""
+  },
+  {
+    "bvid": "BV1Qi4y1R7tW",
+    "aid": 550216398,
+    "videos": 143,
+    "tid": 208,
+    "tname": "校园学习",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/28a4a25c8d4452c7ca03a4270e016a369c097c91.png",
+    "title": "高中化学基础与解法全集（涵盖所有）|长期更新|从零开始拯救所有学渣！",
+    "pubdate": 1640955658,
+    "ctime": 1640955022,
+    "desc": "恭喜你发现宝藏！还有3个宝藏向等你打开！\n@一英儿   学习英语\n@一生儿   学习生物\n@一数      学习数学\n\n欢迎关注微信公众号：一数儿，每周分享免费电子学习资料。\n\n愿这份友谊长存！",
+    "desc_v2": [
+      {
+        "raw_text": "恭喜你发现宝藏！还有3个宝藏向等你打开！\n@一英儿   学习英语\n@一生儿   学习生物\n@一数      学习数学\n\n欢迎关注微信公众号：一数儿，每周分享免费电子学习资料。\n\n愿这份友谊长存！",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 236564,
+    "mission_id": 234512,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1526560679,
+      "name": "一化儿",
+      "face": "https://i2.hdslb.com/bfs/face/f7dd769022b6a0326bd88d8ce3f6bab654bd1255.jpg"
+    },
+    "stat": {
+      "aid": 550216398,
+      "view": 12120154,
+      "danmaku": 323911,
+      "reply": 18601,
+      "favorite": 453297,
+      "coin": 299752,
+      "share": 88996,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 352995,
+      "dislike": 0,
+      "evaluation": "",
+      "argue_msg": ""
+    },
+    "dynamic": "",
+    "cid": 472389897,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 472389897,
+        "page": 1,
+        "from": "vupload",
+        "part": "一化指南|最近更新：11.20",
+        "duration": 33,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211231a2gj9xkadvpzq8hy2ywb403ip_firsti.jpg"
+      },
+      {
+        "cid": 471736593,
+        "page": 2,
+        "from": "vupload",
+        "part": "【物质分类及转化】【一化辞典】1物质的分类",
+        "duration": 982,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n21123014h2tw8kadea7f2bl6afz8bir_firsti.jpg"
+      },
+      {
+        "cid": 471740668,
+        "page": 3,
+        "from": "vupload",
+        "part": "【物质分类及转化】【一化辞典】2分散系与胶体",
+        "duration": 1369,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n21123014lvp61g5ryhc92w0jnava3is_firsti.jpg"
+      },
+      {
+        "cid": 471744293,
+        "page": 4,
+        "from": "vupload",
+        "part": "【物质分类及转化】【考点精华】3物质的分类相关问题（基础）",
+        "duration": 1262,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230162joym4bs9nvaj1bdlwydlmv_firsti.jpg"
+      },
+      {
+        "cid": 471738516,
+        "page": 5,
+        "from": "vupload",
+        "part": "【离子反应】【一化辞典】1电解质基本概念",
+        "duration": 1099,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230131ezimivkey1kh1024lbta3b_firsti.jpg"
+      },
+      {
+        "cid": 471740628,
+        "page": 6,
+        "from": "vupload",
+        "part": "【离子反应】【一化辞典】2离子方程式（重要）",
+        "duration": 1096,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230131pbn87e66tp6xe5b3b7jq0z_firsti.jpg"
+      },
+      {
+        "cid": 471740857,
+        "page": 7,
+        "from": "vupload",
+        "part": "【离子反应】【一化辞典】3离子共存（高一同步）",
+        "duration": 1002,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230141sidn2d1z2txe1p0g3xxb5j_firsti.jpg"
+      },
+      {
+        "cid": 471749442,
+        "page": 8,
+        "from": "vupload",
+        "part": "【离子反应】【考点精华】4电解质的导电性（基础）",
+        "duration": 913,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n21123015156ivv5dacj64137c8lvpco_firsti.jpg"
+      },
+      {
+        "cid": 471749087,
+        "page": 9,
+        "from": "vupload",
+        "part": "【离子反应】【考点精华】5与量有关的离子方程式书写（中档）",
+        "duration": 1119,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n2112301433tmki68wdc303dq4p6rq4b_firsti.jpg"
+      },
+      {
+        "cid": 471748947,
+        "page": 10,
+        "from": "vupload",
+        "part": "【离子反应】【考点精华】6离子方程式正误判断（中档+重要）",
+        "duration": 1413,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230132j2uq9uuta3paehkv0y0m3o_firsti.jpg"
+      },
+      {
+        "cid": 771840641,
+        "page": 11,
+        "from": "vupload",
+        "part": "【氧化还原】【初高衔接】高中生必须要会的化合价判断能力",
+        "duration": 1815,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220713a22d7wnca0xbrwm3bd8m2mz0j_firsti.jpg"
+      },
+      {
+        "cid": 471747006,
+        "page": 12,
+        "from": "vupload",
+        "part": "【氧化还原】【一化辞典】1氧化还原反应基本概念（重要）",
+        "duration": 1105,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n2112301628l0rw65uagjx2sh09tqqbm_firsti.jpg"
+      },
+      {
+        "cid": 471748927,
+        "page": 13,
+        "from": "vupload",
+        "part": "【氧化还原】【一化辞典】2电子转移的表达方式（双线桥+单线桥）",
+        "duration": 1262,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230162ootff9n2pty53pp64turwc_firsti.jpg"
+      },
+      {
+        "cid": 471757924,
+        "page": 14,
+        "from": "vupload",
+        "part": "【氧化还原】【一化辞典】3氧化还原反应的强弱规律",
+        "duration": 1248,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n21123013lsvdx99yospuey74hyht5zf_firsti.jpg"
+      },
+      {
+        "cid": 471754729,
+        "page": 15,
+        "from": "vupload",
+        "part": "【氧化还原】【一化辞典】4价态归中规律与歧化规律",
+        "duration": 902,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230141sagek1fhqxyhvk1r8jwu6s_firsti.jpg"
+      },
+      {
+        "cid": 471756828,
+        "page": 16,
+        "from": "vupload",
+        "part": "【氧化还原】【一化辞典】5氧化还原方程式配平-基础篇（重要）",
+        "duration": 1150,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230161pj8sic7n01o2178i2lkwfg_firsti.jpg"
+      },
+      {
+        "cid": 471757367,
+        "page": 17,
+        "from": "vupload",
+        "part": "【氧化还原】【一化辞典】6氧化还原方程式配平-进阶篇（重要）",
+        "duration": 1037,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n21123016ma7so7qj2c0cufzs158gvmc_firsti.jpg"
+      },
+      {
+        "cid": 471756477,
+        "page": 18,
+        "from": "vupload",
+        "part": "【氧化还原】【考点精华】7氧化性还原性强弱判断题型（中档）",
+        "duration": 1008,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211230162xdg867y8vzd337lbu10zo9_firsti.jpg"
+      },
+      {
+        "cid": 471766333,
+        "page": 19,
+        "from": "vupload",
+        "part": "【氧化还原】【考点精华】8陌生氧化还原方程式书写（拔高）",
+        "duration": 1426,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230152ccixdb4yte4e31yspxpmgk_firsti.jpg"
+      },
+      {
+        "cid": 471759238,
+        "page": 20,
+        "from": "vupload",
+        "part": "【钠及化合物】【一化辞典】1钠的自我介绍",
+        "duration": 226,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230152cv74x07iluxg2dal9kyz0e_firsti.jpg"
+      },
+      {
+        "cid": 471766144,
+        "page": 21,
+        "from": "vupload",
+        "part": "【钠及化合物】【一化辞典】2单质钠和钠的氧化物",
+        "duration": 1298,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230163ffecv5zdngcfu78jgb9nk6_firsti.jpg"
+      },
+      {
+        "cid": 471762333,
+        "page": 22,
+        "from": "vupload",
+        "part": "【钠及化合物】【一化辞典】3碳酸钠与碳酸氢钠",
+        "duration": 1007,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230132ftbq3ieis12w2vp25oruv2_firsti.jpg"
+      },
+      {
+        "cid": 471763241,
+        "page": 23,
+        "from": "vupload",
+        "part": "【钠及化合物】【实验】4焰色试验",
+        "duration": 755,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211230133p9hl6os1s2j8115u0vmyki_firsti.jpg"
+      },
+      {
+        "cid": 471769663,
+        "page": 24,
+        "from": "vupload",
+        "part": "【钠及化合物】【易错汇总】5钠的重要性质之高考20问",
+        "duration": 1014,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230131v0q6856v918r17qwoculx0_firsti.jpg"
+      },
+      {
+        "cid": 471773224,
+        "page": 25,
+        "from": "vupload",
+        "part": "【氯及化合物】【一化辞典】1氯气",
+        "duration": 1361,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230133cy9xls49muwy1ifx049oul_firsti.jpg"
+      },
+      {
+        "cid": 471772445,
+        "page": 26,
+        "from": "vupload",
+        "part": "【氯及化合物】【实验】2氯气实验室制法+氯离子检验（重要）",
+        "duration": 1134,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230163btmyxldc5yjw3g4svhmv8l_firsti.jpg"
+      },
+      {
+        "cid": 471773197,
+        "page": 27,
+        "from": "vupload",
+        "part": "【氯及化合物】【易错汇总】3氯的重要性质之高考20问",
+        "duration": 1110,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n21123015jk5l6avs8beb15c50l8g4dc_firsti.jpg"
+      },
+      {
+        "cid": 471772075,
+        "page": 28,
+        "from": "vupload",
+        "part": "【物质的量】【一化辞典】1物质的量+阿伏伽德罗常数+摩尔质量+摩尔体积（重要）",
+        "duration": 1016,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230133pfc1ome7ma7k3rou9gsssl_firsti.jpg"
+      },
+      {
+        "cid": 471780050,
+        "page": 29,
+        "from": "vupload",
+        "part": "【物质的量】【一化辞典】2阿伏加德罗定律",
+        "duration": 1219,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230132dywy0gaiucwj2eksusvdpt_firsti.jpg"
+      },
+      {
+        "cid": 471780602,
+        "page": 30,
+        "from": "vupload",
+        "part": "【物质的量】【一化辞典】3物质的量浓度",
+        "duration": 1147,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n2112301634aeoxasq7vd53akisk0vda_firsti.jpg"
+      },
+      {
+        "cid": 471778635,
+        "page": 31,
+        "from": "vupload",
+        "part": "【物质的量】【实验】4配制一定物质的量浓度的溶液",
+        "duration": 1015,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211230143cplz5295uzdw29y7cvj9qr_firsti.jpg"
+      },
+      {
+        "cid": 471778594,
+        "page": 32,
+        "from": "vupload",
+        "part": "【物质的量】【考点精华】5物质的量计算之摩尔八卦图（基础+重要）",
+        "duration": 862,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n2112301520pacghxpkjsr3w038dhcmd_firsti.jpg"
+      },
+      {
+        "cid": 471780758,
+        "page": 33,
+        "from": "vupload",
+        "part": "【物质的量】【考点精华】6阿伏加德罗定律题型（中档）",
+        "duration": 1065,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n21123016c49fdt9t7wpf2uw0xz3fi6y_firsti.jpg"
+      },
+      {
+        "cid": 471782171,
+        "page": 34,
+        "from": "vupload",
+        "part": "【物质的量】【考点精华】7摩尔质量计算与十字交叉法（中档）",
+        "duration": 1014,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211230133m3mk4tqeybvux2onkailh1_firsti.jpg"
+      },
+      {
+        "cid": 471787850,
+        "page": 35,
+        "from": "vupload",
+        "part": "【物质的量】【考点精华】8物质的量浓度计算题型（中档）",
+        "duration": 1314,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n21123016358lhezu4t71y1h2dht5oxs_firsti.jpg"
+      },
+      {
+        "cid": 471791502,
+        "page": 36,
+        "from": "vupload",
+        "part": "【物质的量】【考点精华】9物质的量在方程式中的计算（中档+重要）",
+        "duration": 1420,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n2112301527xvppq9gzm4438bdapnolu_firsti.jpg"
+      },
+      {
+        "cid": 471796504,
+        "page": 37,
+        "from": "vupload",
+        "part": "【物质的量】【考点精华】10钠及其化合物的计算题型（中档）",
+        "duration": 1548,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n21123014ptju5a71hac12uxmyr5zj7z_firsti.jpg"
+      },
+      {
+        "cid": 471787938,
+        "page": 38,
+        "from": "vupload",
+        "part": "【铁及化合物】【一化辞典】1铁单质+铁的氧化物+铁的氢氧化物（重要）",
+        "duration": 1647,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n21123013htsysbod1vkm3816d2sbdzz_firsti.jpg"
+      },
+      {
+        "cid": 471792045,
+        "page": 39,
+        "from": "vupload",
+        "part": "【铁及化合物】【一化辞典】2铁三角（重要）",
+        "duration": 1322,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230131gsxcruh36u8u39l2sfaea5_firsti.jpg"
+      },
+      {
+        "cid": 471793656,
+        "page": 40,
+        "from": "vupload",
+        "part": "【铁及化合物】【实验】3教材中铁的重要实验",
+        "duration": 957,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n2112301621uxym7eacf6w1du844wmcu_firsti.jpg"
+      },
+      {
+        "cid": 471796429,
+        "page": 41,
+        "from": "vupload",
+        "part": "【铁及化合物】【易错汇总】4 Fe重要性质之高考20问",
+        "duration": 1438,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230163r2i3qfrpno451v71ejb04r_firsti.jpg"
+      },
+      {
+        "cid": 471803462,
+        "page": 42,
+        "from": "vupload",
+        "part": "【铁及化合物】【考点精华】5 Fe+Cu与FeCl3+CuCl2溶液反应题型（中档）",
+        "duration": 1219,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230133vijuhq0katyikh13g9ec62_firsti.jpg"
+      },
+      {
+        "cid": 471806738,
+        "page": 43,
+        "from": "vupload",
+        "part": "【铁及化合物】【考点精华】6三招搞定铁与酸的计算题型（拔高）",
+        "duration": 1211,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n2112301330voe308zpqga1kk3e3rr6l_firsti.jpg"
+      },
+      {
+        "cid": 471800812,
+        "page": 44,
+        "from": "vupload",
+        "part": "【铝及化合物】【一化辞典】1铝及其化合物",
+        "duration": 1212,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230131fwjn9zfslglj2gjs1ube7i_firsti.jpg"
+      },
+      {
+        "cid": 471804593,
+        "page": 45,
+        "from": "vupload",
+        "part": "【铝及化合物】【一化辞典】2铝三角plus-杰哥强化版（重要）",
+        "duration": 876,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211230133ngmokiywho6r3d2eqmisnj_firsti.jpg"
+      },
+      {
+        "cid": 471802167,
+        "page": 46,
+        "from": "vupload",
+        "part": "【铝及化合物】【易错汇总】3铝的重要性质之高考20问",
+        "duration": 907,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230142f0vc8cbe3j2m24j7buz5cq_firsti.jpg"
+      },
+      {
+        "cid": 471811585,
+        "page": 47,
+        "from": "vupload",
+        "part": "【铝及化合物】【考点精华】4铝的图像题型总结（中档）",
+        "duration": 1700,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n21123016tauog1drsagg4eylgsudkjn_firsti.jpg"
+      },
+      {
+        "cid": 471808815,
+        "page": 48,
+        "from": "vupload",
+        "part": "【元素周期律】【一化辞典】1原子结构",
+        "duration": 1354,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n21123016foeisv2u7qqs3ia84esy7cr_firsti.jpg"
+      },
+      {
+        "cid": 471809858,
+        "page": 49,
+        "from": "vupload",
+        "part": "【元素周期律】【一化辞典】2元素周期表",
+        "duration": 1179,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n21123013fop9tq5zwmlt1skdjjk720g_firsti.jpg"
+      },
+      {
+        "cid": 471813596,
+        "page": 50,
+        "from": "vupload",
+        "part": "【元素周期律】【一化辞典】3碱金属与卤族元素",
+        "duration": 1074,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230151of476t3quwu20z97vyc62i_firsti.jpg"
+      },
+      {
+        "cid": 471815309,
+        "page": 51,
+        "from": "vupload",
+        "part": "【元素周期律】【一化辞典】4元素周期律（上）（重要）",
+        "duration": 1024,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n2112301436jpyg2ja19dfzls1zc67b3_firsti.jpg"
+      },
+      {
+        "cid": 471814077,
+        "page": 52,
+        "from": "vupload",
+        "part": "【元素周期律】【一化辞典】5元素周期律（下）（重要）",
+        "duration": 728,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211230162g4li9zenpdbh596geglw30_firsti.jpg"
+      },
+      {
+        "cid": 471817328,
+        "page": 53,
+        "from": "vupload",
+        "part": "【元素周期律】【一化辞典】6化学键（上）（重要）",
+        "duration": 953,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n21123014y4e6tl4lku5vrjrp294ndr1_firsti.jpg"
+      },
+      {
+        "cid": 471816452,
+        "page": 54,
+        "from": "vupload",
+        "part": "【元素周期律】【一化辞典】7化学键（下）（重要）",
+        "duration": 880,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211230142thtpfewxubjkasb6hsdz3i_firsti.jpg"
+      },
+      {
+        "cid": 471819539,
+        "page": 55,
+        "from": "vupload",
+        "part": "【元素周期律】【考点精华】8短周期主族元素推断方法（中档+重要）",
+        "duration": 1658,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211230151ewgba88q3r803re37m2r0e_firsti.jpg"
+      },
+      {
+        "cid": 471818475,
+        "page": 56,
+        "from": "vupload",
+        "part": "【元素周期律】【考点精华】9周期律+元素推断综合题型（中档）",
+        "duration": 936,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n21123016k213jr0jijq33a6o59c2i28_firsti.jpg"
+      },
+      {
+        "cid": 566464805,
+        "page": 57,
+        "from": "vupload",
+        "part": "【元素周期律】【考点精华】10含结构式的元素推断题如何破（拔高）",
+        "duration": 1155,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220403qn1o80c1x0y1pzu174mma67ex_firsti.jpg"
+      },
+      {
+        "cid": 476195428,
+        "page": 58,
+        "from": "vupload",
+        "part": "【硫及化合物】【一化辞典】1硫单质+硫酸",
+        "duration": 1535,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220103qn13qujf90biv083chudqsftc_firsti.jpg"
+      },
+      {
+        "cid": 478165023,
+        "page": 59,
+        "from": "vupload",
+        "part": "【硫及化合物】【一化辞典】2二氧化硫（重要）",
+        "duration": 1257,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220105a23cwsbghd09wjrd2xa5zg11l_firsti.jpg"
+      },
+      {
+        "cid": 480763963,
+        "page": 60,
+        "from": "vupload",
+        "part": "【硫及化合物】【实验】3硫酸根离子检验（重要）",
+        "duration": 1212,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220109a23i61ailuvd1m83sf6g4zjce_firsti.jpg"
+      },
+      {
+        "cid": 484597764,
+        "page": 61,
+        "from": "vupload",
+        "part": "【硫及化合物】【易错汇总】4硫的重要性质之高考20问",
+        "duration": 1288,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220115a21vqh8xy9pg0af3uaqxkfivl_firsti.jpg"
+      },
+      {
+        "cid": 486511715,
+        "page": 62,
+        "from": "vupload",
+        "part": "【硫及化合物】【考点精华】5二氧化硫重点题型剖析（基础+重要）",
+        "duration": 1660,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220117qn32m916trhuyg33rtwhjjfsk_firsti.jpg"
+      },
+      {
+        "cid": 490230419,
+        "page": 63,
+        "from": "vupload",
+        "part": "【硫及化合物】【考点精华】6浓硫酸与金属反应计算题型（中档）",
+        "duration": 1089,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220122a2yoyi3t6gwwcx2ruu2qi38z5_firsti.jpg"
+      },
+      {
+        "cid": 499322110,
+        "page": 64,
+        "from": "vupload",
+        "part": "【氮及化合物】【一化辞典】1氮气与氮的氧化物",
+        "duration": 1535,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220201a230bmqguvdw4aptgjmqubmtn_firsti.jpg"
+      },
+      {
+        "cid": 500693596,
+        "page": 65,
+        "from": "vupload",
+        "part": "【氮及化合物】【一化辞典】2氨+铵盐+硝酸（重要）",
+        "duration": 1426,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220203a21vjq1t33ouhv92wn5f4d653_firsti.jpg"
+      },
+      {
+        "cid": 511952239,
+        "page": 66,
+        "from": "vupload",
+        "part": "【氮及化合物】【实验】3氨与铵盐的重要实验",
+        "duration": 1385,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220218a2yjjfdup3v28e2s6ch485dcs_firsti.jpg"
+      },
+      {
+        "cid": 511954620,
+        "page": 67,
+        "from": "vupload",
+        "part": "【氮及化合物】【易错汇总】4氮及其化合物之高考20问",
+        "duration": 1090,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220218a258h5y4xpnc4w30y47m910kz_firsti.jpg"
+      },
+      {
+        "cid": 511957490,
+        "page": 68,
+        "from": "vupload",
+        "part": "【氮及化合物】【考点精华】5氮氧化物溶于水的计算题型（中档）",
+        "duration": 1685,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220218a22kd76mqzkcqan11osmqp98v_firsti.jpg"
+      },
+      {
+        "cid": 511960545,
+        "page": 69,
+        "from": "vupload",
+        "part": "【氮及化合物】【考点精华】6金属与硝酸的计算题型（拔高）",
+        "duration": 1926,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220218a238mek9d40t0k21v3glosi5u_firsti.jpg"
+      },
+      {
+        "cid": 552807644,
+        "page": 70,
+        "from": "vupload",
+        "part": "【非金属材料】【一化辞典】无机非金属材料",
+        "duration": 1420,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220318a234ijoneirg3px3o5om9cnuj_firsti.jpg"
+      },
+      {
+        "cid": 552809872,
+        "page": 71,
+        "from": "vupload",
+        "part": "【硅及化合物】【一化辞典】1硅单质与硅的化合物",
+        "duration": 1456,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220318a22hr59ay498t3c2emjl0spf9_firsti.jpg"
+      },
+      {
+        "cid": 554600723,
+        "page": 72,
+        "from": "vupload",
+        "part": "【硅及化合物】【易错汇总】2硅的重要性质之高考20问",
+        "duration": 770,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220320a21e785uat37x4j2c1cj2sy26_firsti.jpg"
+      },
+      {
+        "cid": 555647931,
+        "page": 73,
+        "from": "vupload",
+        "part": "【反应与能量】【一化辞典】1化学反应与热能（必修二）",
+        "duration": 1507,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220322a2ez3jim4plmt4e9qr6nz3ivu_firsti.jpg"
+      },
+      {
+        "cid": 556347869,
+        "page": 74,
+        "from": "vupload",
+        "part": "【反应与能量】【一化辞典】2原电池基本概念（必修二）",
+        "duration": 1112,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220322a211ksiep2i6u72hrt4cb5hoc_firsti.jpg"
+      },
+      {
+        "cid": 556349129,
+        "page": 75,
+        "from": "vupload",
+        "part": "【反应与能量】【一化辞典】3化学电池（必修二）",
+        "duration": 1063,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220322a21osfra03vibgg3njt0kb8zo_firsti.jpg"
+      },
+      {
+        "cid": 556999260,
+        "page": 76,
+        "from": "vupload",
+        "part": "【反应与能量】【一化辞典】4化学反应速率（必修二）",
+        "duration": 1898,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220323a2a3v22h7m5xl2629gpt79aoi_firsti.jpg"
+      },
+      {
+        "cid": 557001879,
+        "page": 77,
+        "from": "vupload",
+        "part": "【反应与能量】【一化辞典】5化学反应的限度（必修二）",
+        "duration": 1910,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220323a216akmn8wmjmnuygghoekn0w_firsti.jpg"
+      },
+      {
+        "cid": 567733324,
+        "page": 78,
+        "from": "vupload",
+        "part": "【反应与能量】【考点精华】6原电池电极反应式书写（必修二/中档+重要）",
+        "duration": 1838,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220405a2bushpgdkc0c121g3g9zm853_firsti.jpg"
+      },
+      {
+        "cid": 562305814,
+        "page": 79,
+        "from": "vupload",
+        "part": "【必修二 有机】【一化辞典】1烃+甲烷+烷烃",
+        "duration": 1679,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220329a2hgif9wjpp1knokdf3n3ng41_firsti.jpg"
+      },
+      {
+        "cid": 562307324,
+        "page": 80,
+        "from": "vupload",
+        "part": "【必修二 有机】【一化辞典】2乙烯与有机高分子材料（重要）",
+        "duration": 2014,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220329a21sz6q8cjqwrkv2nyoh326kx_firsti.jpg"
+      },
+      {
+        "cid": 565103048,
+        "page": 81,
+        "from": "vupload",
+        "part": "【必修二 有机】【一化辞典】3同分异构体-烷基及其取代物（重要）",
+        "duration": 2072,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220402a24hvhcpu3qu6i1h73aivaz52_firsti.jpg"
+      },
+      {
+        "cid": 566437019,
+        "page": 82,
+        "from": "vupload",
+        "part": "【必修二 有机】【一化辞典】4乙醇（重要）",
+        "duration": 1828,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220403a222ks08qalxokb2ln0o1kwd3_firsti.jpg"
+      },
+      {
+        "cid": 569989462,
+        "page": 83,
+        "from": "vupload",
+        "part": "【必修二 有机】【一化辞典】5乙酸（重要）",
+        "duration": 1165,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220407a22jl7msdl83ldt2k3gia4ty0_firsti.jpg"
+      },
+      {
+        "cid": 585966830,
+        "page": 84,
+        "from": "vupload",
+        "part": "【必修二 有机】【一化辞典】6基本营养物质",
+        "duration": 2309,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220427qn1b4r522qm5c562c2l9gxrbq_firsti.jpg"
+      },
+      {
+        "cid": 753056246,
+        "page": 85,
+        "from": "vupload",
+        "part": "【化学与可持续发展】【一化辞典】自然资源的开发利用",
+        "duration": 2416,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220622a2a031t0f7xah01xsb4jk5qsu_firsti.jpg"
+      },
+      {
+        "cid": 753059467,
+        "page": 86,
+        "from": "vupload",
+        "part": "【化学与可持续发展】【考点精华】海水资源的开发利用流程图",
+        "duration": 2114,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220622a21fn1124d5s2y13i808ecesq_firsti.jpg"
+      },
+      {
+        "cid": 759397187,
+        "page": 87,
+        "from": "vupload",
+        "part": "【选必一 化反热效应】【一化词典】1反应热与焓变",
+        "duration": 2515,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220629a28xf30mc069r2259cxpzfmtg_firsti.jpg"
+      },
+      {
+        "cid": 764712160,
+        "page": 88,
+        "from": "vupload",
+        "part": "【选必一 化反热效应】【一化辞典】2热化学方程式 燃烧热",
+        "duration": 2584,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220705a21khl1m1d6e9vg2tdvon6wmr_firsti.jpg"
+      },
+      {
+        "cid": 766666243,
+        "page": 89,
+        "from": "vupload",
+        "part": "【选必一 化反热效应】【一化辞典】3反应热计算与盖斯定律（重要）",
+        "duration": 2138,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220707a21ouqndj15th735c2rbdtgab_firsti.jpg"
+      },
+      {
+        "cid": 771341252,
+        "page": 90,
+        "from": "vupload",
+        "part": "【选必一 化反热效应】【考点精华】4反应热重难点题型（中档）",
+        "duration": 2098,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220712qn1mga8jqc7om0h1xipagsbij_firsti.jpg"
+      },
+      {
+        "cid": 774872814,
+        "page": 91,
+        "from": "vupload",
+        "part": "【选必一 反应速率】【一化辞典】1化学反应速率基本概念与计算（重要）",
+        "duration": 2945,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220716a239bs3zm22iebj37yjljide5_firsti.jpg"
+      },
+      {
+        "cid": 797655314,
+        "page": 92,
+        "from": "vupload",
+        "part": "【选必一 反应速率】【一化辞典】2影响化学反应速率因素+碰撞理论",
+        "duration": 2978,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220808a2hm485m6prrokkxwtjfwost9_firsti.jpg"
+      },
+      {
+        "cid": 781867383,
+        "page": 93,
+        "from": "vupload",
+        "part": "【选必一 反应速率】【一化辞典】3基元反应 反应历程 活化能 催化剂",
+        "duration": 3294,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220723a23k7wqk1kxktasimtf23cwes_firsti.jpg"
+      },
+      {
+        "cid": 853181917,
+        "page": 94,
+        "from": "vupload",
+        "part": "【选必一 反应速率】【考点精华】反应机理与能量关系图分析技巧（中档/重要）",
+        "duration": 2057,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221005a22ud8gybhlumxja6a0f2vfpe_firsti.jpg"
+      },
+      {
+        "cid": 785760166,
+        "page": 95,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【一化辞典】1化学平衡状态（重要）",
+        "duration": 2568,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220727a2xfbgkvqfebqvam0j4qo80u1_firsti.jpg"
+      },
+      {
+        "cid": 790876097,
+        "page": 96,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【一化辞典】2化学平衡常数（重要）",
+        "duration": 2887,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220801qn6mspj5dvesx11r1wzoruiuk_firsti.jpg"
+      },
+      {
+        "cid": 799470655,
+        "page": 97,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【一化辞典】3影响化学平衡因素与勒夏特列原理（重要）",
+        "duration": 2177,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220810a22fh5g5p9vhw9r16170idvuq_firsti.jpg"
+      },
+      {
+        "cid": 799196293,
+        "page": 98,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【一化辞典】4平衡移动图像（重要）",
+        "duration": 1512,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220810a2so3n3k9528vi3o66uukd7ba_firsti.jpg"
+      },
+      {
+        "cid": 805907455,
+        "page": 99,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【一化辞典】5等效平衡",
+        "duration": 2415,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220817a223u7bw2t9ugjv23wz4e4419_firsti.jpg"
+      },
+      {
+        "cid": 812620204,
+        "page": 100,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【一化辞典】6化学反应的方向",
+        "duration": 2269,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220824a2208887tqvswz20nln11ic7f_firsti.jpg"
+      },
+      {
+        "cid": 805733740,
+        "page": 101,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【考点精华】化学平衡图像分析技巧（重要+中档）",
+        "duration": 1294,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220816a21iz3krpn77sl11wicrq0kcb_firsti.jpg"
+      },
+      {
+        "cid": 805738220,
+        "page": 102,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【考点精华】高考热点Kp计算题（重要+中档）",
+        "duration": 1551,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220817a237ac0ic9h7v0h18i6fqviys_firsti.jpg"
+      },
+      {
+        "cid": 812619121,
+        "page": 103,
+        "from": "vupload",
+        "part": "【选必一 化学平衡】【考点精华】等效平衡应用-恒温恒容+恒温恒压+恒容绝热（拔高）",
+        "duration": 1421,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220824a23iyjz75m9y74b235pi9x93f_firsti.jpg"
+      },
+      {
+        "cid": 828771894,
+        "page": 104,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】1电离平衡状态",
+        "duration": 1978,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220910a22my2y4xewx4m019xjcvz9rd_firsti.jpg"
+      },
+      {
+        "cid": 840675667,
+        "page": 105,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】2电离平衡常数",
+        "duration": 1711,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220923qn3uf9rdjwf5naa8ulmz8m9f1_firsti.jpg"
+      },
+      {
+        "cid": 840675823,
+        "page": 106,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】3水的电离与水的离子积常数",
+        "duration": 1826,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220923qn34xbbounyc8si441f12al6l_firsti.jpg"
+      },
+      {
+        "cid": 849155316,
+        "page": 107,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】4溶液酸碱性与pH",
+        "duration": 1447,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n221001a223k7oosv00n5b1gnhkeg0pn_firsti.jpg"
+      },
+      {
+        "cid": 868070174,
+        "page": 108,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】5强酸强碱中和滴定",
+        "duration": 2451,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221021a22zx5tjlv3lvu11z7g4577ul_firsti.jpg"
+      },
+      {
+        "cid": 871569211,
+        "page": 109,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】6中和滴定误差分析",
+        "duration": 1751,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n221025qn3ulcatkltw5yvt5jrffc4nd_firsti.jpg"
+      },
+      {
+        "cid": 849143757,
+        "page": 110,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】pH计算（中等/重要）",
+        "duration": 1365,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n221001qnq7pqvbip1k6lxoro4d7tjab_firsti.jpg"
+      },
+      {
+        "cid": 849180357,
+        "page": 111,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】由水电离出的氢离子浓度图像题（中等）",
+        "duration": 1105,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n221001a23f27pffharchs1eihmql3w2_firsti.jpg"
+      },
+      {
+        "cid": 849088991,
+        "page": 112,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】盐类水解基本概念（重要）",
+        "duration": 1778,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n221001qn1nw1xb40t6w71kjhtcspccp_firsti.jpg"
+      },
+      {
+        "cid": 849214915,
+        "page": 113,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】电解质溶液三大守恒（重要）",
+        "duration": 1592,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n221001a227qc37cvbbwh63tvbnzjzxf_firsti.jpg"
+      },
+      {
+        "cid": 849350040,
+        "page": 114,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】电解质溶液易混乱题型精彩剖析（上）（拔高/重要）",
+        "duration": 1699,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221002a222kyjkynclqozhbx6twwdqt_firsti.jpg"
+      },
+      {
+        "cid": 849253154,
+        "page": 115,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】电解质溶液易混乱题型精彩剖析（下）（拔高/重要）",
+        "duration": 1610,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221001a23gzxguojanuhz3gwgd8ytfw_firsti.jpg"
+      },
+      {
+        "cid": 887246852,
+        "page": 116,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】溶液中的微粒关系（拔高/重要）",
+        "duration": 3834,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221110a23nkoxdztnrg2c1kr4mirt2v_firsti.jpg"
+      },
+      {
+        "cid": 887246810,
+        "page": 117,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】经典酸碱中和滴定pH-V图像分析（上）（拔高/重要）",
+        "duration": 2911,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n221110a22zdajizppxi9b2svf6qfzbt_firsti.jpg"
+      },
+      {
+        "cid": 887246678,
+        "page": 118,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】经典酸碱中和滴定pH-V图像分析（下）（拔高/重要）",
+        "duration": 2223,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n221110a22mgemdyijn23z1c5yeb1uu6_firsti.jpg"
+      },
+      {
+        "cid": 897376570,
+        "page": 119,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】分布分数图像分析（拔高/重要）",
+        "duration": 2993,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n221120a2g0zg3yzln1eo3tvi6ye8quk_firsti.jpg"
+      },
+      {
+        "cid": 897376945,
+        "page": 120,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【一化辞典】沉淀溶解平衡（重要）",
+        "duration": 4449,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n221120a21w9vb6qrmn16n1dfbw1d0dt_firsti.jpg"
+      },
+      {
+        "cid": 897376984,
+        "page": 121,
+        "from": "vupload",
+        "part": "【选必一 溶液离子平衡】【考点精华】沉淀溶解平衡图像题（拔高）",
+        "duration": 5022,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n221120a23n3z7gjb0bjza227cce8z5k_firsti.jpg"
+      },
+      {
+        "cid": 544495887,
+        "page": 122,
+        "from": "vupload",
+        "part": "【选必二 原子结构】【一化辞典】1能层+能级+原子轨道+电子云",
+        "duration": 1064,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220308qn4hl0wu3ocw0p8szo06btme2_firsti.jpg"
+      },
+      {
+        "cid": 544502202,
+        "page": 123,
+        "from": "vupload",
+        "part": "【选必二 原子结构】【一化辞典】2构造原理+泡利原理+洪特规则",
+        "duration": 774,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220308qn1yo8tpjtrkitz1kwuw766sr_firsti.jpg"
+      },
+      {
+        "cid": 550618618,
+        "page": 124,
+        "from": "vupload",
+        "part": "【选必二 原子结构】【一化辞典】3电子排布式与轨道表示（重要）",
+        "duration": 1799,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220316a22b3s4u30u88g83q6yvdthgr_firsti.jpg"
+      },
+      {
+        "cid": 550609150,
+        "page": 125,
+        "from": "vupload",
+        "part": "【选必二 分子结构】【一化辞典】1 VSEPR模型与分子空间结构-基本概念（重要）",
+        "duration": 1311,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220316a22goh4atvoktl720mshqfopi_firsti.jpg"
+      },
+      {
+        "cid": 550610890,
+        "page": 126,
+        "from": "vupload",
+        "part": "【选必二 分子结构】【一化辞典】2 VSEPR模型与分子空间结构-动画展示",
+        "duration": 684,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220316a21kb2842v3pjle3io5490awj_firsti.jpg"
+      },
+      {
+        "cid": 555643732,
+        "page": 127,
+        "from": "vupload",
+        "part": "【选必二 分子结构】【一化辞典】3杂化轨道理论-sp与sp2与sp3（重要）",
+        "duration": 1831,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220322a2384casl5ezipv2pa6inv5t5_firsti.jpg"
+      },
+      {
+        "cid": 555645147,
+        "page": 128,
+        "from": "vupload",
+        "part": "【选必二 分子结构】【一化辞典】4杂化轨道与π键-大π键",
+        "duration": 1773,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220322a22bjcfl1wtlh9k44rub1zjjh_firsti.jpg"
+      },
+      {
+        "cid": 573728238,
+        "page": 129,
+        "from": "vupload",
+        "part": "【选必二 分子结构】【一化辞典】5氢键与范德华力（重要）",
+        "duration": 2055,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220412qn3ml5n98z8krs31ucupmc0gn_firsti.jpg"
+      },
+      {
+        "cid": 562303417,
+        "page": 130,
+        "from": "vupload",
+        "part": "【选必二 晶体】【考点精华】晶体密度计算题型（老教材/重要）",
+        "duration": 2501,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220329a2a3k96w5pihml91rus55hq5h_firsti.jpg"
+      },
+      {
+        "cid": 580773246,
+        "page": 131,
+        "from": "vupload",
+        "part": "【选必二 晶体】【考点精华】配位键与配合物重难点题型（中档/重要）",
+        "duration": 3464,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220420a23214t5utm1ig327ae6kvhjy_firsti.jpg"
+      },
+      {
+        "cid": 581765598,
+        "page": 132,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】有机物的命名（烷+烯+炔）",
+        "duration": 1646,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220421a228v2k7bofwxru2cp5bw3xog_firsti.jpg"
+      },
+      {
+        "cid": 711647992,
+        "page": 133,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】研究有机化合物的一般方法",
+        "duration": 2661,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220504a2ykhhpesbx68339b8ugzzqtx_firsti.jpg"
+      },
+      {
+        "cid": 573729768,
+        "page": 134,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】苯与芳香烃（重要）",
+        "duration": 2170,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220412qn3c2anxmhwq2j8ds55pocakb_firsti.jpg"
+      },
+      {
+        "cid": 716444062,
+        "page": 135,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】卤代烃（重要）",
+        "duration": 2618,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220510a22coqpnfpi7h6w3daf2hhjsm_firsti.jpg"
+      },
+      {
+        "cid": 721473644,
+        "page": 136,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】烃的衍生物-醇（重要）",
+        "duration": 3446,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220516qn1sebbbk8jl58mclfeaq274c_firsti.jpg"
+      },
+      {
+        "cid": 749310744,
+        "page": 137,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】烃的衍生物-酚（重要）",
+        "duration": 1851,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220617a2nb5vy1nbc4gjulb0zfewur4_firsti.jpg"
+      },
+      {
+        "cid": 759413242,
+        "page": 138,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】烃的衍生物-醛 酮（重要）",
+        "duration": 2732,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220629a23lbkj2gevcbt836ndrv54eb_firsti.jpg"
+      },
+      {
+        "cid": 761595818,
+        "page": 139,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化词典】羧酸 酯 油脂（重要）",
+        "duration": 3302,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220702a22z0z9s5dipaae1o7s2vc7p6_firsti.jpg"
+      },
+      {
+        "cid": 584253389,
+        "page": 140,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】有机反应类型梳理-取代反应（重要）",
+        "duration": 2183,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220424a2sgak5qrvol083docjew03lh_firsti.jpg"
+      },
+      {
+        "cid": 584256006,
+        "page": 141,
+        "from": "vupload",
+        "part": "【选必三 有机】【一化辞典】有机反应类型梳理-加成反应（重要）",
+        "duration": 1855,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220424a217o6ei2wofwy712akx5w6hw_firsti.jpg"
+      },
+      {
+        "cid": 573732472,
+        "page": 142,
+        "from": "vupload",
+        "part": "【选必三 有机】【考点精华】含苯环结构的异构体判断（中档/重要）",
+        "duration": 2033,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220412qn5as103lyq079qk9dmt7fvvt_firsti.jpg"
+      },
+      {
+        "cid": 580728132,
+        "page": 143,
+        "from": "vupload",
+        "part": "【选必三 有机】【考点精华】有机物共线与共面问题（拔高/重要）",
+        "duration": 2508,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220420a23l3oc5v1qc1ip4gf4rcxs2t_firsti.jpg"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 550216398,
+          "type": 4,
+          "desc": "热门",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": ""
+  }]

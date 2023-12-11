@@ -2,27 +2,12 @@
 import axios from "axios";
 import {isObject, useStorage} from '@vueuse/core'
 import favoritesList from "../assets/favoritesList.json";
-import {computed} from "vue";
+import {computed, onMounted} from "vue";
 
 const api_url = "https://fyapi-fyapi-xtnyzhmgzs.cn-hangzhou.fcapp.run/bili/api";
 
 // onMounted
-// onMounted(() => {
-//   // get_pages(data_.bvid);
-//   console.log(JSON.parse(localStorage.getItem("data_")).data.pages.length)
-//   if (JSON.parse(localStorage.getItem("data_")).data.pages.length !== 0) {
-//     console.log(1111)
-//     data_= {};
-//
-//     // data_.data = JSON.parse(localStorage.getItem("data_"));
-//     // data_.bvid = data_.data["bvid"];
-//     // console.log(data_);
-//   } else {
-//     console.log(2222)
-//     data_ = {};
-//     console.log(typeof data_.data)
-//   }
-// });
+
 
 let curBvid = "";
 
@@ -66,7 +51,7 @@ const get_pages = (bvid) => {
     bvid = match[0];
     data_.bvid = bvid;
   } else {
-    alert("未能匹配到正确的BV号");
+    alert("未能匹配到正确的BV号或AV号");
     return;
   }
   if (bvid === curBvid) {
@@ -113,6 +98,21 @@ const set_data = (data) => {
     pages: data.pages,
   }
 };
+
+onMounted(() => {
+  //若url中含有bvid参数或者av参数如?BV=或者?av=，则自动获取数据
+  const params = new URLSearchParams(window.location.search);
+  const bv = params.get("bv");
+  const av = params.get("av");
+  if (bv) {
+    data_.bvid = bv;
+    get_pages(bv);
+  } else if (av) {
+    data_.bvid = av;
+    get_pages(av);
+  }
+
+});
 
 const toTop = () => {
   // window.scrollTo(0, 0);
